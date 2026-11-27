@@ -12,4 +12,4 @@ On the **RTX 4090**, colibri processed a 16,384-token prompt at **12,311 tokens/
 
 On a fanless **MacBook Air M1 with 8 GB of unified memory**, the Qwen3.6 Metal graph ran the 35B model and processed a 512-token prompt at **111 tokens/s**, up from **3.13 tokens/s on CPU**. [Merged graph PR](https://github.com/JustVugg/colibri/pull/2298) · [Four-run timings](https://github.com/JustVugg/colibri/blob/e479104ae01bdc40ce81e675299b1d230891b321/docs/experiments/qwen36-metal-graph-2026-10-05/summary.txt) · [Same-text quality check](https://github.com/JustVugg/colibri/blob/e479104ae01bdc40ce81e675299b1d230891b321/docs/experiments/qwen36-metal-graph-2026-10-05/quality.txt)
 
-[More upstream work on CUDA, Vulkan, GGUF and container memory](https://github.com/CoTi1938/colibri/tree/vetrina#more-work-in-upstream-main) · [formine_nadir.7q@icloud.com](mailto:formine_nadir.7q@icloud.com)
+[More upstream work on CUDA, Vulkan, GGUF and container memory](https://github.com/CoTi1938/colibri/tree/vetrina#more-work-in-upstream-main) · [coti1938@icloud.com](mailto:coti1938@icloud.com)
